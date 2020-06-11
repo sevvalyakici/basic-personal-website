@@ -1,33 +1,33 @@
-												body {
-													margin: 0;
-													padding: 0;
-													background-color: black;
-												}
+body {
+margin: 0;
+padding: 0;
+background-color: black;
+}
+.header 
+{
+background: rgba (0, 0, 10);
+height: 100vh;
+}
 												
-												.header {
-													background: rgba (0, 0, 10);
-													height: 100vh;
-												}
+.logo {
+position: absolute;
+top: 5px;
+left: 55px;
+height: 60px;
+z-index: 1;
+}
 												
-												.logo {
-													position: absolute;
-													top: 5px;
-													left: 55px;
-													height: 60px;
-													z-index: 1;
-												}
-												
-												.video-background {
-													position: absolute;
-													right: 0;
-													bottom: 0;
-													min-width: 100%;
-													min-height: 100%;
-													width: auto;
-													height: auto;
-													z-index: -1;
-													box-shadow: 3px 4px 5px gray;
-												}
+.video-background {
+position: absolute;
+right: 0;
+bottom: 0;
+min-width: 100%;
+min-height: 100%;
+width: auto;
+height: auto;
+z-index: -1;
+box-shadow: 3px 4px 5px gray;
+}
 												
 												@media(min-aspect-ratio:16/9) {
 													.video-background {
