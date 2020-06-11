@@ -1,2 +1,2 @@
-# CounterStrike.github.io
+# counterstrike.github.io
 kişisel site
