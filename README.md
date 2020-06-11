@@ -1,2 +1,2 @@
-# Counter-Strike:Global Offensive.github.io
+# CounterStrike.github.io
 kişisel site
